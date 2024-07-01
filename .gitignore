@@ -1,0 +1,6 @@
+*.pth
+*.zip
+*.csv
+__pycache__
+venv
+data
